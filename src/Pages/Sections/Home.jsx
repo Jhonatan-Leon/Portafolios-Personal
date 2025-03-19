@@ -8,7 +8,7 @@ import { ContactSection } from "../../Layouts/Contact/ContactSection";
 
 export const Home = () => {
     return (
-    <section className="w-screen h-168 flex flex-col md:flex-row items-center justify-center gap-8 px-6 py-12 max-w-screen-lg mx-auto overflow-hidden">
+    <section className="w-full h-full flex flex-col md:flex-row items-center justify-center gap-8 px-6 py-12 max-w-screen-lg mx-auto overflow-hidden">
         <ProfileImage />
         <div className="text-center md:text-left">
             <Title />
