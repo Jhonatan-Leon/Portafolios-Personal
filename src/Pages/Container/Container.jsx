@@ -1,7 +1,7 @@
 
 export const Container = ({children}) => {
     return (
-        <main className="w-auto h-auto">
+        <main>
             {children}
         </main>
     )

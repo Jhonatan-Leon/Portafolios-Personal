@@ -13,11 +13,3 @@ body{
 h2{
     color: #64FFDA;
 }
-
-
-#root{
-    height: auto;
-    margin: 0;
-    padding: 0;
-    width: auto;
-}
